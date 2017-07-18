@@ -1,0 +1,2 @@
+Plugins in the TRUNK will not be supported. Please only download and use code from the TAGS directory. 
+See http://dev.wp-plugins.org/browser/image-headlines/tags/
